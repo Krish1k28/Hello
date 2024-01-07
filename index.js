@@ -52,7 +52,7 @@ function myMove() {
     }
   }
 function newDoc() {
-   window.location.assign("http://127.0.0.1:5501/jstest.html")
+   window.location.assign("https://krish1k28.github.io/Hello/")
   }
   setInterval(myTimer, 1000);
 
